@@ -59,7 +59,7 @@ This result provides experimental evidence for a physical association between MR
 
 ## Final Model
 
-![Final cell-to-cell communication model](figures/06_final_model.png)
+![Final cell-to-cell communication model](figures/06_final_model.jpg)
 
 **Figure 1.** *ACTH signaling from the pituitary to the adrenal cortex, leading to cortisol production.*
 
