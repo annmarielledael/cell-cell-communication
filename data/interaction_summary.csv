@@ -1,0 +1,2 @@
+molecule_a,molecule_b,species_a,species_b,host_organism,positive_interaction,detection_method,interaction_type,publication_id,doi,interpretation
+MRAP,MC2R,Homo sapiens,Homo sapiens,Cricetulus griseus (Chinese hamster),Yes,anti tag coIP,physical association,18077336,10.1073/pnas.0708916105,"Experimental evidence for physical association between MRAP and MC2R"
