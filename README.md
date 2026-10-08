@@ -61,6 +61,8 @@ This result provides experimental evidence for a physical association between MR
 
 ![Final cell-to-cell communication model](figures/06_final_model.png)
 
+**Figure 1.** *ACTH signaling from the pituitary to the adrenal cortex, leading to cortisol production.*
+
 ### Interpretation
 
 The proposed communication model begins with a Pituitary corticotroph as the sender cell. HPA single-cell data show that POMC is enriched in corticotrophs, supporting the corticotroph as a biologically meaningful source of the precursor. POMC is processed to produce ACTH, the signaling peptide that acts on the adrenal cortex. OmniPath reports a POMC–MC2R interaction supported by multiple resources, while HPA data show that MC2R is enriched in adrenal cortex cells and is predicted to be membrane-localized. These findings support the adrenal cortex as a reasonable receiver. The communication is interpreted as endocrine because ACTH is released from the pituitary and transported through the circulation to the adrenal gland. The STRING network centered on MC2R contains 11 proteins and is significantly enriched for the glucocorticoid biosynthetic process (FDR 4.59 × 10⁻¹⁰). GNAS and steroidogenic proteins including CYP11A1, CYP21A2, and CYP11B1 were therefore included as relevant pathway components. IntAct provides experimental evidence for a physical association between MC2R and MRAP using anti-tag co-immunoprecipitation. The sender, receptor, receiver, and major signaling relationship are strongly supported by database evidence; however, the exact ordering of intracellular proteins remains an evidence-based inference rather than proof from STRING alone.
