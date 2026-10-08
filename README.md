@@ -6,7 +6,9 @@
 ## Chosen Sender Cell and Biological Context
 
 **Sender cell:** Pituitary corticotroph
+
 **Tissue/context:** Anterior pituitary
+
 **Biological context:** Neuroendocrine signaling
 
 Human Protein Atlas (HPA) single-cell data show that POMC is enriched in pituitary corticotrophs, supporting the corticotroph as a biologically meaningful sender cell.
@@ -14,6 +16,7 @@ Human Protein Atlas (HPA) single-cell data show that POMC is enriched in pituita
 ## Candidate Ligand and Evidence for Sender-Cell Expression
 
 **Signaling molecule:** Adrenocorticotropic hormone (ACTH)
+
 **Precursor:** Proopiomelanocortin (POMC)
 
 HPA single-cell data show that POMC is cell-type enriched in pituitary corticotrophs. POMC is processed into peptides including ACTH, which serves as the signaling molecule in this proposed communication model.
@@ -21,6 +24,7 @@ HPA single-cell data show that POMC is cell-type enriched in pituitary corticotr
 ## Receptor and Receiver Cell
 
 **Receptor:** MC2R (Melanocortin 2 receptor)
+
 **Receiver cell:** Adrenal cortex cell
 
 HPA single-cell data show that MC2R is cell-type enriched in adrenal cortex cells and is predicted to be membrane-localized. This supports the adrenal cortex cell as a biologically reasonable receiver for the ACTH signal.
@@ -49,8 +53,7 @@ The IntAct record examined was the MRAP–MC2R interaction.
 
 The interaction was reported as a physical association and was detected using anti-tag co-immunoprecipitation (anti tag coIP). The interacting proteins are from *Homo sapiens*, while the host organism listed for the experiment was *Cricetulus griseus* (Chinese hamster).
 
-Publication: **PMID 18077336**
-DOI: **10.1073/pnas.0708916105**
+Publication: **PMID 18077336**; DOI: **10.1073/pnas.0708916105**
 
 This result provides experimental evidence for a physical association between MRAP and MC2R. It supports the receptor-associated molecular system but does not identify MRAP as the signaling ligand.
 
